@@ -15,7 +15,7 @@ We will use Elements of Causal Inference as the main book for this course. The e
 
 |   |  |
 | ------------- | ------------- |
-| **Week 1**  |   |
+| [**Week 1**](https://github.com/soerenwengel/causalinferenceandcontrol/wiki/Week-1)  |  Causal models |
 | Monday 27/3  |   |
 | Wednesday 29/3  |   |
 | **Week 2**  |   |
@@ -25,25 +25,25 @@ We will use Elements of Causal Inference as the main book for this course. The e
 |  Monday 10/4 |  no class (Easter) |
 | Wednesday 12/4  |   |
 | Friday 14/4  | assignment 1 due  |
-| **Week 4**  |   |
+| **Week 4**  |  Causal graphs |
 |  Monday 17/4 |   |
 | Wednesday 19/4  |   |
-| **Week 5**  |   |
+| **Week 5**  | Do-calculus and identification  |
 | Monday 24/4  |   |
 |  Wednesday 26/4 |   |
 | Friday 28/4  | assignment 2 due  |
-| **Week 6**  |   |
+| **Week 6**  | Potential outcomes  |
 | Monday 1/5  |  no class (International Workers' Day) |
 |  Wednesday 3/5 |   |
-| **Week 7**  |   |
+| **Week 7**  | Causal structure learning  |
 | Monday 8/5  |   |
 | Wednesday 10/5  |   |
 | Friday 12/5  | assignment 3 due  |
-| **Week 8**  |   |
+| **Week 8**  |  Instrumental variables |
 |  Monday 15/5 |   |
 | Wednesday 17/5  |   |
 | Friday 19/5  | assignment 4 due  |
-| **Week 9**  |   |
+| **Week 9**  | Time series  |
 |  Monday 22/5 |   |
 | Wednesday 24/5  |   |
 
