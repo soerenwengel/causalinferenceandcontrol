@@ -2,4 +2,4 @@
 
 *Course webpage for Causal inference and control at LTH, spring 2023*
 
-All information is on the [wiki](https://github.com/soerenwengel/causalinferenceandcontrol/wiki/Week-1).
+All information is on the [wiki](https://github.com/soerenwengel/causalinferenceandcontrol/wiki).
